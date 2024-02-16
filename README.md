@@ -1,10 +1,12 @@
 # Kasper - One Page Creative Template
 
-Kasper is a creative one-page template designed for portfolios, agencies, or any other web page. The template offers a sleek design and is fully customizable. It utilizes free Google fonts. Please note that images are not included.
+Kasper is a creative one-page template designed for portfolios, agencies, or any other web page. The template offers a sleek design and is fully customizable. It utilizes free Google fonts. Please note that images are not included. I discovered this template through [Elzero Web School](https://www.youtube.com/@ElzeroWebSchool)'s YouTube channel and decided to customize it to fit my needs.
+
+![Kasper One Page Template Preview](/images/design-preview.png)
 
 ## Preview
 
-[Link]()
+[Link](https://musab-nuirat.github.io/Kasper-One-Page-Template/)
 
 ## Features
 
